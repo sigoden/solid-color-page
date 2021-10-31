@@ -1,0 +1,12 @@
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchParams = new URLSearchParams(location.search)
+        let color = searchParams.get('color')
+        if (!color) {
+            color = '#' + ((1<<24)*Math.random() | 0).toString(16)
+        } else {
+            color = '#' + color
+        }
+        document.body.style.background = color
+    })
+</script>
