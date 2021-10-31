@@ -1,165 +1,166 @@
 # Solid Color Page
 
-- <a style="color: #FFFFFF" href="/index.html?color=#FFFFFF">white</a> 
-- <a style="color: #000000" href="/index.html?color=#000000">black</a> 
-- <a style="color: #C0C0C0" href="/index.html?color=#C0C0C0">silver</a> 
-- <a style="color: #808080" href="/index.html?color=#808080">gray</a> 
-- <a style="color: #800000" href="/index.html?color=#800000">maroon</a> 
-- <a style="color: #FF0000" href="/index.html?color=#FF0000">red</a> 
-- <a style="color: #800080" href="/index.html?color=#800080">purple</a> 
-- <a style="color: #FF00FF" href="/index.html?color=#FF00FF">fuchsia</a> 
-- <a style="color: #008000" href="/index.html?color=#008000">green</a> 
-- <a style="color: #00FF00" href="/index.html?color=#00FF00">lime</a> 
-- <a style="color: #808000" href="/index.html?color=#808000">olive</a> 
-- <a style="color: #FFFF00" href="/index.html?color=#FFFF00">yellow</a> 
-- <a style="color: #000080" href="/index.html?color=#000080">navy</a> 
-- <a style="color: #0000FF" href="/index.html?color=#0000FF">blue</a> 
-- <a style="color: #008080" href="/index.html?color=#008080">teal</a> 
-- <a style="color: #00FFFF" href="/index.html?color=#00FFFF">aqua</a> 
-- <a style="color: #f0f8ff" href="/index.html?color=#f0f8ff">aliceblue</a> 
-- <a style="color: #faebd7" href="/index.html?color=#faebd7">antiquewhite</a> 
-- <a style="color: #00ffff" href="/index.html?color=#00ffff">aqua</a> 
-- <a style="color: #7fffd4" href="/index.html?color=#7fffd4">aquamarine</a> 
-- <a style="color: #f0ffff" href="/index.html?color=#f0ffff">azure</a> 
-- <a style="color: #f5f5dc" href="/index.html?color=#f5f5dc">beige</a> 
-- <a style="color: #ffe4c4" href="/index.html?color=#ffe4c4">bisque</a> 
-- <a style="color: #000000" href="/index.html?color=#000000">black</a> 
-- <a style="color: #ffebcd" href="/index.html?color=#ffebcd">blanchedalmond</a> 
-- <a style="color: #0000ff" href="/index.html?color=#0000ff">blue</a> 
-- <a style="color: #8a2be2" href="/index.html?color=#8a2be2">blueviolet</a> 
-- <a style="color: #a52a2a" href="/index.html?color=#a52a2a">brown</a> 
-- <a style="color: #deb887" href="/index.html?color=#deb887">burlywood</a> 
-- <a style="color: #5f9ea0" href="/index.html?color=#5f9ea0">cadetblue</a> 
-- <a style="color: #7fff00" href="/index.html?color=#7fff00">chartreuse</a> 
-- <a style="color: #d2691e" href="/index.html?color=#d2691e">chocolate</a> 
-- <a style="color: #ff7f50" href="/index.html?color=#ff7f50">coral</a> 
-- <a style="color: #6495ed" href="/index.html?color=#6495ed">cornflowerblue</a> 
-- <a style="color: #fff8dc" href="/index.html?color=#fff8dc">cornsilk</a> 
-- <a style="color: #dc143c" href="/index.html?color=#dc143c">crimson</a> 
-- <a style="color: #00ffff" href="/index.html?color=#00ffff">cyan</a> 
-- <a style="color: #00008b" href="/index.html?color=#00008b">darkblue</a> 
-- <a style="color: #008b8b" href="/index.html?color=#008b8b">darkcyan</a> 
-- <a style="color: #b8860b" href="/index.html?color=#b8860b">darkgoldenrod</a> 
-- <a style="color: #a9a9a9" href="/index.html?color=#a9a9a9">darkgray</a> 
-- <a style="color: #006400" href="/index.html?color=#006400">darkgreen</a> 
-- <a style="color: #a9a9a9" href="/index.html?color=#a9a9a9">darkgrey</a> 
-- <a style="color: #bdb76b" href="/index.html?color=#bdb76b">darkkhaki</a> 
-- <a style="color: #8b008b" href="/index.html?color=#8b008b">darkmagenta</a> 
-- <a style="color: #556b2f" href="/index.html?color=#556b2f">darkolivegreen</a> 
-- <a style="color: #ff8c00" href="/index.html?color=#ff8c00">darkorange</a> 
-- <a style="color: #9932cc" href="/index.html?color=#9932cc">darkorchid</a> 
-- <a style="color: #8b0000" href="/index.html?color=#8b0000">darkred</a> 
-- <a style="color: #e9967a" href="/index.html?color=#e9967a">darksalmon</a> 
-- <a style="color: #8fbc8f" href="/index.html?color=#8fbc8f">darkseagreen</a> 
-- <a style="color: #483d8b" href="/index.html?color=#483d8b">darkslateblue</a> 
-- <a style="color: #2f4f4f" href="/index.html?color=#2f4f4f">darkslategray</a> 
-- <a style="color: #2f4f4f" href="/index.html?color=#2f4f4f">darkslategrey</a> 
-- <a style="color: #00ced1" href="/index.html?color=#00ced1">darkturquoise</a> 
-- <a style="color: #9400d3" href="/index.html?color=#9400d3">darkviolet</a> 
-- <a style="color: #ff1493" href="/index.html?color=#ff1493">deeppink</a> 
-- <a style="color: #00bfff" href="/index.html?color=#00bfff">deepskyblue</a> 
-- <a style="color: #696969" href="/index.html?color=#696969">dimgray</a> 
-- <a style="color: #696969" href="/index.html?color=#696969">dimgrey</a> 
-- <a style="color: #1e90ff" href="/index.html?color=#1e90ff">dodgerblue</a> 
-- <a style="color: #b22222" href="/index.html?color=#b22222">firebrick</a> 
-- <a style="color: #fffaf0" href="/index.html?color=#fffaf0">floralwhite</a> 
-- <a style="color: #228b22" href="/index.html?color=#228b22">forestgreen</a> 
-- <a style="color: #ff00ff" href="/index.html?color=#ff00ff">fuchsia</a> 
-- <a style="color: #dcdcdc" href="/index.html?color=#dcdcdc">gainsboro</a> 
-- <a style="color: #f8f8ff" href="/index.html?color=#f8f8ff">ghostwhite</a> 
-- <a style="color: #ffd700" href="/index.html?color=#ffd700">gold</a> 
-- <a style="color: #daa520" href="/index.html?color=#daa520">goldenrod</a> 
-- <a style="color: #808080" href="/index.html?color=#808080">gray</a> 
-- <a style="color: #008000" href="/index.html?color=#008000">green</a> 
-- <a style="color: #adff2f" href="/index.html?color=#adff2f">greenyellow</a> 
-- <a style="color: #808080" href="/index.html?color=#808080">grey</a> 
-- <a style="color: #f0fff0" href="/index.html?color=#f0fff0">honeydew</a> 
-- <a style="color: #ff69b4" href="/index.html?color=#ff69b4">hotpink</a> 
-- <a style="color: #cd5c5c" href="/index.html?color=#cd5c5c">indianred</a> 
-- <a style="color: #4b0082" href="/index.html?color=#4b0082">indigo</a> 
-- <a style="color: #fffff0" href="/index.html?color=#fffff0">ivory</a> 
-- <a style="color: #f0e68c" href="/index.html?color=#f0e68c">khaki</a> 
-- <a style="color: #e6e6fa" href="/index.html?color=#e6e6fa">lavender</a> 
-- <a style="color: #fff0f5" href="/index.html?color=#fff0f5">lavenderblush</a> 
-- <a style="color: #7cfc00" href="/index.html?color=#7cfc00">lawngreen</a> 
-- <a style="color: #fffacd" href="/index.html?color=#fffacd">lemonchiffon</a> 
-- <a style="color: #add8e6" href="/index.html?color=#add8e6">lightblue</a> 
-- <a style="color: #f08080" href="/index.html?color=#f08080">lightcoral</a> 
-- <a style="color: #e0ffff" href="/index.html?color=#e0ffff">lightcyan</a> 
-- <a style="color: #fafad2" href="/index.html?color=#fafad2">lightgoldenrodyellow</a> 
-- <a style="color: #d3d3d3" href="/index.html?color=#d3d3d3">lightgray</a> 
-- <a style="color: #90ee90" href="/index.html?color=#90ee90">lightgreen</a> 
-- <a style="color: #d3d3d3" href="/index.html?color=#d3d3d3">lightgrey</a> 
-- <a style="color: #ffb6c1" href="/index.html?color=#ffb6c1">lightpink</a> 
-- <a style="color: #ffa07a" href="/index.html?color=#ffa07a">lightsalmon</a> 
-- <a style="color: #20b2aa" href="/index.html?color=#20b2aa">lightseagreen</a> 
-- <a style="color: #87cefa" href="/index.html?color=#87cefa">lightskyblue</a> 
-- <a style="color: #778899" href="/index.html?color=#778899">lightslategray</a> 
-- <a style="color: #778899" href="/index.html?color=#778899">lightslategrey</a> 
-- <a style="color: #b0c4de" href="/index.html?color=#b0c4de">lightsteelblue</a> 
-- <a style="color: #ffffe0" href="/index.html?color=#ffffe0">lightyellow</a> 
-- <a style="color: #00ff00" href="/index.html?color=#00ff00">lime</a> 
-- <a style="color: #32cd32" href="/index.html?color=#32cd32">limegreen</a> 
-- <a style="color: #faf0e6" href="/index.html?color=#faf0e6">linen</a> 
-- <a style="color: #ff00ff" href="/index.html?color=#ff00ff">magenta</a> 
-- <a style="color: #800000" href="/index.html?color=#800000">maroon</a> 
-- <a style="color: #66cdaa" href="/index.html?color=#66cdaa">mediumaquamarine</a> 
-- <a style="color: #0000cd" href="/index.html?color=#0000cd">mediumblue</a> 
-- <a style="color: #ba55d3" href="/index.html?color=#ba55d3">mediumorchid</a> 
-- <a style="color: #9370db" href="/index.html?color=#9370db">mediumpurple</a> 
-- <a style="color: #3cb371" href="/index.html?color=#3cb371">mediumseagreen</a> 
-- <a style="color: #7b68ee" href="/index.html?color=#7b68ee">mediumslateblue</a> 
-- <a style="color: #00fa9a" href="/index.html?color=#00fa9a">mediumspringgreen</a> 
-- <a style="color: #48d1cc" href="/index.html?color=#48d1cc">mediumturquoise</a> 
-- <a style="color: #c71585" href="/index.html?color=#c71585">mediumvioletred</a> 
-- <a style="color: #191970" href="/index.html?color=#191970">midnightblue</a> 
-- <a style="color: #f5fffa" href="/index.html?color=#f5fffa">mintcream</a> 
-- <a style="color: #ffe4e1" href="/index.html?color=#ffe4e1">mistyrose</a> 
-- <a style="color: #ffe4b5" href="/index.html?color=#ffe4b5">moccasin</a> 
-- <a style="color: #ffdead" href="/index.html?color=#ffdead">navajowhite</a> 
-- <a style="color: #000080" href="/index.html?color=#000080">navy</a> 
-- <a style="color: #fdf5e6" href="/index.html?color=#fdf5e6">oldlace</a> 
-- <a style="color: #808000" href="/index.html?color=#808000">olive</a> 
-- <a style="color: #6b8e23" href="/index.html?color=#6b8e23">olivedrab</a> 
-- <a style="color: #ffa500" href="/index.html?color=#ffa500">orange</a> 
-- <a style="color: #ff4500" href="/index.html?color=#ff4500">orangered</a> 
-- <a style="color: #da70d6" href="/index.html?color=#da70d6">orchid</a> 
-- <a style="color: #eee8aa" href="/index.html?color=#eee8aa">palegoldenrod</a> 
-- <a style="color: #98fb98" href="/index.html?color=#98fb98">palegreen</a> 
-- <a style="color: #afeeee" href="/index.html?color=#afeeee">paleturquoise</a> 
-- <a style="color: #db7093" href="/index.html?color=#db7093">palevioletred</a> 
-- <a style="color: #ffefd5" href="/index.html?color=#ffefd5">papayawhip</a> 
-- <a style="color: #ffdab9" href="/index.html?color=#ffdab9">peachpuff</a> 
-- <a style="color: #cd853f" href="/index.html?color=#cd853f">peru</a> 
-- <a style="color: #ffc0cb" href="/index.html?color=#ffc0cb">pink</a> 
-- <a style="color: #dda0dd" href="/index.html?color=#dda0dd">plum</a> 
-- <a style="color: #b0e0e6" href="/index.html?color=#b0e0e6">powderblue</a> 
-- <a style="color: #800080" href="/index.html?color=#800080">purple</a> 
-- <a style="color: #ff0000" href="/index.html?color=#ff0000">red</a> 
-- <a style="color: #bc8f8f" href="/index.html?color=#bc8f8f">rosybrown</a> 
-- <a style="color: #4169e1" href="/index.html?color=#4169e1">royalblue</a> 
-- <a style="color: #8b4513" href="/index.html?color=#8b4513">saddlebrown</a> 
-- <a style="color: #fa8072" href="/index.html?color=#fa8072">salmon</a> 
-- <a style="color: #f4a460" href="/index.html?color=#f4a460">sandybrown</a> 
-- <a style="color: #2e8b57" href="/index.html?color=#2e8b57">seagreen</a> 
-- <a style="color: #fff5ee" href="/index.html?color=#fff5ee">seashell</a> 
-- <a style="color: #a0522d" href="/index.html?color=#a0522d">sienna</a> 
-- <a style="color: #c0c0c0" href="/index.html?color=#c0c0c0">silver</a> 
-- <a style="color: #87ceeb" href="/index.html?color=#87ceeb">skyblue</a> 
-- <a style="color: #6a5acd" href="/index.html?color=#6a5acd">slateblue</a> 
-- <a style="color: #708090" href="/index.html?color=#708090">slategray</a> 
-- <a style="color: #708090" href="/index.html?color=#708090">slategrey</a> 
-- <a style="color: #fffafa" href="/index.html?color=#fffafa">snow</a> 
-- <a style="color: #00ff7f" href="/index.html?color=#00ff7f">springgreen</a> 
-- <a style="color: #4682b4" href="/index.html?color=#4682b4">steelblue</a> 
-- <a style="color: #d2b48c" href="/index.html?color=#d2b48c">tan</a> 
-- <a style="color: #008080" href="/index.html?color=#008080">teal</a> 
-- <a style="color: #d8bfd8" href="/index.html?color=#d8bfd8">thistle</a> 
-- <a style="color: #ff6347" href="/index.html?color=#ff6347">tomato</a> 
-- <a style="color: #40e0d0" href="/index.html?color=#40e0d0">turquoise</a> 
-- <a style="color: #ee82ee" href="/index.html?color=#ee82ee">violet</a> 
-- <a style="color: #f5deb3" href="/index.html?color=#f5deb3">wheat</a> 
-- <a style="color: #ffffff" href="/index.html?color=#ffffff">white</a> 
-- <a style="color: #f5f5f5" href="/index.html?color=#f5f5f5">whitesmoke</a> 
-- <a style="color: #ffff00" href="/index.html?color=#ffff00">yellow</a> 
-- <a style="color: #9acd32" href="/index.html?color=#9acd32">yellowgreen</a> 
+- [randome](index.html)
+- [white](index.html?color=FFFFFF) `#FFFFFF` 
+- [black](index.html?color=000000) `#000000` 
+- [silver](index.html?color=C0C0C0) `#C0C0C0` 
+- [gray](index.html?color=808080) `#808080` 
+- [maroon](index.html?color=800000) `#800000` 
+- [red](index.html?color=FF0000) `#FF0000` 
+- [purple](index.html?color=800080) `#800080` 
+- [fuchsia](index.html?color=FF00FF) `#FF00FF` 
+- [green](index.html?color=008000) `#008000` 
+- [lime](index.html?color=00FF00) `#00FF00` 
+- [olive](index.html?color=808000) `#808000` 
+- [yellow](index.html?color=FFFF00) `#FFFF00` 
+- [navy](index.html?color=000080) `#000080` 
+- [blue](index.html?color=0000FF) `#0000FF` 
+- [teal](index.html?color=008080) `#008080` 
+- [aqua](index.html?color=00FFFF) `#00FFFF` 
+- [aliceblue](index.html?color=f0f8ff) `#f0f8ff` 
+- [antiquewhite](index.html?color=faebd7) `#faebd7` 
+- [aqua](index.html?color=00ffff) `#00ffff` 
+- [aquamarine](index.html?color=7fffd4) `#7fffd4` 
+- [azure](index.html?color=f0ffff) `#f0ffff` 
+- [beige](index.html?color=f5f5dc) `#f5f5dc` 
+- [bisque](index.html?color=ffe4c4) `#ffe4c4` 
+- [black](index.html?color=000000) `#000000` 
+- [blanchedalmond](index.html?color=ffebcd) `#ffebcd` 
+- [blue](index.html?color=0000ff) `#0000ff` 
+- [blueviolet](index.html?color=8a2be2) `#8a2be2` 
+- [brown](index.html?color=a52a2a) `#a52a2a` 
+- [burlywood](index.html?color=deb887) `#deb887` 
+- [cadetblue](index.html?color=5f9ea0) `#5f9ea0` 
+- [chartreuse](index.html?color=7fff00) `#7fff00` 
+- [chocolate](index.html?color=d2691e) `#d2691e` 
+- [coral](index.html?color=ff7f50) `#ff7f50` 
+- [cornflowerblue](index.html?color=6495ed) `#6495ed` 
+- [cornsilk](index.html?color=fff8dc) `#fff8dc` 
+- [crimson](index.html?color=dc143c) `#dc143c` 
+- [cyan](index.html?color=00ffff) `#00ffff` 
+- [darkblue](index.html?color=00008b) `#00008b` 
+- [darkcyan](index.html?color=008b8b) `#008b8b` 
+- [darkgoldenrod](index.html?color=b8860b) `#b8860b` 
+- [darkgray](index.html?color=a9a9a9) `#a9a9a9` 
+- [darkgreen](index.html?color=006400) `#006400` 
+- [darkgrey](index.html?color=a9a9a9) `#a9a9a9` 
+- [darkkhaki](index.html?color=bdb76b) `#bdb76b` 
+- [darkmagenta](index.html?color=8b008b) `#8b008b` 
+- [darkolivegreen](index.html?color=556b2f) `#556b2f` 
+- [darkorange](index.html?color=ff8c00) `#ff8c00` 
+- [darkorchid](index.html?color=9932cc) `#9932cc` 
+- [darkred](index.html?color=8b0000) `#8b0000` 
+- [darksalmon](index.html?color=e9967a) `#e9967a` 
+- [darkseagreen](index.html?color=8fbc8f) `#8fbc8f` 
+- [darkslateblue](index.html?color=483d8b) `#483d8b` 
+- [darkslategray](index.html?color=2f4f4f) `#2f4f4f` 
+- [darkslategrey](index.html?color=2f4f4f) `#2f4f4f` 
+- [darkturquoise](index.html?color=00ced1) `#00ced1` 
+- [darkviolet](index.html?color=9400d3) `#9400d3` 
+- [deeppink](index.html?color=ff1493) `#ff1493` 
+- [deepskyblue](index.html?color=00bfff) `#00bfff` 
+- [dimgray](index.html?color=696969) `#696969` 
+- [dimgrey](index.html?color=696969) `#696969` 
+- [dodgerblue](index.html?color=1e90ff) `#1e90ff` 
+- [firebrick](index.html?color=b22222) `#b22222` 
+- [floralwhite](index.html?color=fffaf0) `#fffaf0` 
+- [forestgreen](index.html?color=228b22) `#228b22` 
+- [fuchsia](index.html?color=ff00ff) `#ff00ff` 
+- [gainsboro](index.html?color=dcdcdc) `#dcdcdc` 
+- [ghostwhite](index.html?color=f8f8ff) `#f8f8ff` 
+- [gold](index.html?color=ffd700) `#ffd700` 
+- [goldenrod](index.html?color=daa520) `#daa520` 
+- [gray](index.html?color=808080) `#808080` 
+- [green](index.html?color=008000) `#008000` 
+- [greenyellow](index.html?color=adff2f) `#adff2f` 
+- [grey](index.html?color=808080) `#808080` 
+- [honeydew](index.html?color=f0fff0) `#f0fff0` 
+- [hotpink](index.html?color=ff69b4) `#ff69b4` 
+- [indianred](index.html?color=cd5c5c) `#cd5c5c` 
+- [indigo](index.html?color=4b0082) `#4b0082` 
+- [ivory](index.html?color=fffff0) `#fffff0` 
+- [khaki](index.html?color=f0e68c) `#f0e68c` 
+- [lavender](index.html?color=e6e6fa) `#e6e6fa` 
+- [lavenderblush](index.html?color=fff0f5) `#fff0f5` 
+- [lawngreen](index.html?color=7cfc00) `#7cfc00` 
+- [lemonchiffon](index.html?color=fffacd) `#fffacd` 
+- [lightblue](index.html?color=add8e6) `#add8e6` 
+- [lightcoral](index.html?color=f08080) `#f08080` 
+- [lightcyan](index.html?color=e0ffff) `#e0ffff` 
+- [lightgoldenrodyellow](index.html?color=fafad2) `#fafad2` 
+- [lightgray](index.html?color=d3d3d3) `#d3d3d3` 
+- [lightgreen](index.html?color=90ee90) `#90ee90` 
+- [lightgrey](index.html?color=d3d3d3) `#d3d3d3` 
+- [lightpink](index.html?color=ffb6c1) `#ffb6c1` 
+- [lightsalmon](index.html?color=ffa07a) `#ffa07a` 
+- [lightseagreen](index.html?color=20b2aa) `#20b2aa` 
+- [lightskyblue](index.html?color=87cefa) `#87cefa` 
+- [lightslategray](index.html?color=778899) `#778899` 
+- [lightslategrey](index.html?color=778899) `#778899` 
+- [lightsteelblue](index.html?color=b0c4de) `#b0c4de` 
+- [lightyellow](index.html?color=ffffe0) `#ffffe0` 
+- [lime](index.html?color=00ff00) `#00ff00` 
+- [limegreen](index.html?color=32cd32) `#32cd32` 
+- [linen](index.html?color=faf0e6) `#faf0e6` 
+- [magenta](index.html?color=ff00ff) `#ff00ff` 
+- [maroon](index.html?color=800000) `#800000` 
+- [mediumaquamarine](index.html?color=66cdaa) `#66cdaa` 
+- [mediumblue](index.html?color=0000cd) `#0000cd` 
+- [mediumorchid](index.html?color=ba55d3) `#ba55d3` 
+- [mediumpurple](index.html?color=9370db) `#9370db` 
+- [mediumseagreen](index.html?color=3cb371) `#3cb371` 
+- [mediumslateblue](index.html?color=7b68ee) `#7b68ee` 
+- [mediumspringgreen](index.html?color=00fa9a) `#00fa9a` 
+- [mediumturquoise](index.html?color=48d1cc) `#48d1cc` 
+- [mediumvioletred](index.html?color=c71585) `#c71585` 
+- [midnightblue](index.html?color=191970) `#191970` 
+- [mintcream](index.html?color=f5fffa) `#f5fffa` 
+- [mistyrose](index.html?color=ffe4e1) `#ffe4e1` 
+- [moccasin](index.html?color=ffe4b5) `#ffe4b5` 
+- [navajowhite](index.html?color=ffdead) `#ffdead` 
+- [navy](index.html?color=000080) `#000080` 
+- [oldlace](index.html?color=fdf5e6) `#fdf5e6` 
+- [olive](index.html?color=808000) `#808000` 
+- [olivedrab](index.html?color=6b8e23) `#6b8e23` 
+- [orange](index.html?color=ffa500) `#ffa500` 
+- [orangered](index.html?color=ff4500) `#ff4500` 
+- [orchid](index.html?color=da70d6) `#da70d6` 
+- [palegoldenrod](index.html?color=eee8aa) `#eee8aa` 
+- [palegreen](index.html?color=98fb98) `#98fb98` 
+- [paleturquoise](index.html?color=afeeee) `#afeeee` 
+- [palevioletred](index.html?color=db7093) `#db7093` 
+- [papayawhip](index.html?color=ffefd5) `#ffefd5` 
+- [peachpuff](index.html?color=ffdab9) `#ffdab9` 
+- [peru](index.html?color=cd853f) `#cd853f` 
+- [pink](index.html?color=ffc0cb) `#ffc0cb` 
+- [plum](index.html?color=dda0dd) `#dda0dd` 
+- [powderblue](index.html?color=b0e0e6) `#b0e0e6` 
+- [purple](index.html?color=800080) `#800080` 
+- [red](index.html?color=ff0000) `#ff0000` 
+- [rosybrown](index.html?color=bc8f8f) `#bc8f8f` 
+- [royalblue](index.html?color=4169e1) `#4169e1` 
+- [saddlebrown](index.html?color=8b4513) `#8b4513` 
+- [salmon](index.html?color=fa8072) `#fa8072` 
+- [sandybrown](index.html?color=f4a460) `#f4a460` 
+- [seagreen](index.html?color=2e8b57) `#2e8b57` 
+- [seashell](index.html?color=fff5ee) `#fff5ee` 
+- [sienna](index.html?color=a0522d) `#a0522d` 
+- [silver](index.html?color=c0c0c0) `#c0c0c0` 
+- [skyblue](index.html?color=87ceeb) `#87ceeb` 
+- [slateblue](index.html?color=6a5acd) `#6a5acd` 
+- [slategray](index.html?color=708090) `#708090` 
+- [slategrey](index.html?color=708090) `#708090` 
+- [snow](index.html?color=fffafa) `#fffafa` 
+- [springgreen](index.html?color=00ff7f) `#00ff7f` 
+- [steelblue](index.html?color=4682b4) `#4682b4` 
+- [tan](index.html?color=d2b48c) `#d2b48c` 
+- [teal](index.html?color=008080) `#008080` 
+- [thistle](index.html?color=d8bfd8) `#d8bfd8` 
+- [tomato](index.html?color=ff6347) `#ff6347` 
+- [turquoise](index.html?color=40e0d0) `#40e0d0` 
+- [violet](index.html?color=ee82ee) `#ee82ee` 
+- [wheat](index.html?color=f5deb3) `#f5deb3` 
+- [white](index.html?color=ffffff) `#ffffff` 
+- [whitesmoke](index.html?color=f5f5f5) `#f5f5f5` 
+- [yellow](index.html?color=ffff00) `#ffff00` 
+- [yellowgreen](index.html?color=9acd32) `#9acd32` 
